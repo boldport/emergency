@@ -1,0 +1,54 @@
+{
+"pins":
+  {
+  "1":
+    {	
+      "layout": 
+      {
+        "pad": "text", 
+        "location": [0, 0],
+	"show-label": true
+      }
+    }
+  },
+  "layout":
+  {
+  },
+  "pads":
+  {
+    "text":
+    {
+      "shapes":
+      [
+        {
+          "layers": ["top"],
+          "font-family": "Helsinki-webfont", 
+          "location": [
+            3.9, 
+            -13.9
+          ],
+          "font-size": "3.2mm", 
+          "letter-spacing": "0mm", 
+          "line-height": "1.5mm",
+          "style": "fill", 
+          "type": "text", 
+          "value": "ENGINEER SUPERHERO"
+        },
+        {
+          "layers": ["top"],
+          "font-family": "Helsinki-webfont", 
+          "location": [
+            0, 
+            -2.8
+          ],
+          "font-size": "2.8mm", 
+          "letter-spacing": "0mm", 
+          "line-height": "1.5mm",
+          "style": "fill", 
+          "type": "text", 
+          "value": "V IR"
+        }
+      ]
+    }
+  }
+}

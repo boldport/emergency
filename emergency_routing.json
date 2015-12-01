@@ -1,0 +1,199 @@
+{
+  "routes": {
+    "top": {
+      "19421ab5e": {
+        "stroke-width": 0.3, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "m -2.9999996,18.076304 0,-0.70222"
+      }, 
+      "223f39a53": {
+        "stroke-width": 0.3, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "m 7.0000004,18.076304 0,-0.70222"
+      }, 
+      "36e22ad8b": {
+        "stroke-width": 0.3, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "m -11,18.076304 0,-0.70222"
+      }, 
+      "3ae5326ed": {
+        "stroke-width": 0.3, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "m 3.0000004,18.076304 0,-0.70222"
+      }, 
+      "3f460faa7": {
+        "stroke-width": 0.3, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "m -14,18.076304 0,-0.70222"
+      }, 
+      "436f81a08": {
+        "stroke-width": 0.3, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "m -0.99999961,18.076304 0,-0.70222"
+      }, 
+      "44aa67f46": {
+        "stroke-width": 0.3, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "m 5.0000004,18.076304 0,-1.061666"
+      }, 
+      "46462823b": {
+        "stroke-width": 0.3, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "m -5.9999997,18.076304 0,-0.70222"
+      }, 
+      "55d5ea627": {
+        "stroke-width": 0.3, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "m 12,18.076304 0,-0.70222"
+      }, 
+      "5bec86dbd": {
+        "stroke-width": 0.3, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "m -1.9999996,18.076304 0,-0.70222"
+      }, 
+      "6de2f4abd": {
+        "stroke-width": 0.3, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "m -9.9999998,18.076304 0,-0.868118"
+      }, 
+      "715b724f9": {
+        "stroke-width": 0.3, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "m -7.9999998,18.076304 0,-0.70222"
+      }, 
+      "7a3877296": {
+        "stroke-width": 0.4, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "m 15.525927,-14.624375 c -1.573476,2.732237 -1.900548,0.200293 -2.684926,0.593419 -0.626537,0.314017 -0.236234,1.273399 -1.108027,1.752737"
+      }, 
+      "7de721498": {
+        "stroke-width": 0.3, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "m 2.0000004,18.076304 0,-0.70222"
+      }, 
+      "814b7b8ab": {
+        "stroke-width": 0.3, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "m 4.0000004,18.076304 0,-0.70222"
+      }, 
+      "912deffbd": {
+        "stroke-width": 0.3, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "m 6.0000004,18.076304 0,-0.70222"
+      }, 
+      "980ac8f99": {
+        "stroke-width": 0.3, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "m 10,18.076304 0,-0.868118"
+      }, 
+      "9b7ff0418": {
+        "stroke-width": 0.3, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "m -8.9999998,18.076304 0,-0.70222"
+      }, 
+      "a34a69068": {
+        "stroke-width": 0.3, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "m 14,18.076304 0,-0.70222"
+      }, 
+      "a4a8a8c91": {
+        "stroke-width": 0.3, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "m -3.9999996,18.076304 0,-0.70222"
+      }, 
+      "aec31cd93": {
+        "stroke-width": 0.3, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "m 13,18.076304 0,-0.70222"
+      }, 
+      "b3c2e3869": {
+        "stroke-width": 0.3, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "m 2.9e-7,18.076304 0,-0.868118"
+      }, 
+      "c2b53aa4d": {
+        "stroke-width": 0.3, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "m 9.0000004,18.076304 0,-0.70222"
+      }, 
+      "cf39d0e42": {
+        "stroke-width": 0.3, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "m -6.9999997,18.076304 0,-0.70222"
+      }, 
+      "d4f635e11": {
+        "stroke-width": 0.3, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "m -13,18.076304 0,-0.70222"
+      }, 
+      "deaf0098d": {
+        "stroke-width": 0.3, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "m 15,18.076304 0,-1.061666"
+      }, 
+      "e04c071f1": {
+        "stroke-width": 0.3, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "m -4.9999996,18.076304 0,-1.061666"
+      }, 
+      "e34d846cd": {
+        "stroke-width": 0.3, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "m 8.0000004,18.076304 0,-0.70222"
+      }, 
+      "e8c4e1cee": {
+        "stroke-width": 0.3, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "m 1.0000003,18.076304 0,-0.70222"
+      }, 
+      "ea04247e9": {
+        "stroke-width": 0.3, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "m -12,18.076304 0,-0.70222"
+      }, 
+      "f4e02d953": {
+        "stroke-width": 0.3, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "m 11,18.076304 0,-0.70222"
+      }, 
+      "f64b9ba49": {
+        "stroke-width": 0.3, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "m -15,18.076304 0,-1.061666"
+      }
+    }
+  }, 
+  "vias": {}
+}
