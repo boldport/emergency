@@ -461,13 +461,13 @@
       "letter-spacing": "0mm", 
       "line-height": "1.5mm", 
       "location": [
-        35.045421, 
+        40.711318, 
         -9.5859052
       ], 
       "rotate": 0, 
       "style": "fill", 
       "type": "text", 
-      "value": "Board details:\nName: release4-example \nRevision: A\nDescription: A small example of multiple layers \nLicense: Solderpad Hardware License, version 0.51\nCompany: Boldport Limited\nDesigner: Saar Drimer, saar@boldport.com"
+      "value": "Board details:\nName: emergency \nRevision: A\nDescription: the tiny 'engineer superhero' emergency kit, 2nd edition\nLicense: Solderpad Hardware License, version 0.51\nCompany: Boldport Limited\nDesigner: Saar Drimer, saar@boldport.com"
     }, 
     "manufacturing": {
       "font-family": "Overlock-Regular-OTF-webfont", 
