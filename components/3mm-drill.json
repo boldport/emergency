@@ -28,7 +28,8 @@
 	{
 	  "type": "circle",
 	  "layers": ["top", "bottom"],
-	  "diameter": 4
+	  "diameter": 4,
+          "buffer-to-pour": 0.6
 	}
       ],
       "drills":

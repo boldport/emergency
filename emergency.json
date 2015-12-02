@@ -427,7 +427,7 @@
     }
   }, 
   "config": {
-    "name": "mlayer-test", 
+    "name": "emergency", 
     "no-docs": false, 
     "no-drill-index": false, 
     "no-flashes": false, 
@@ -440,7 +440,7 @@
     "from-pour-to": {
       "drill": 0.4, 
       "outline": 0.25, 
-      "pad": 0.3, 
+      "pad": 0.45, 
       "route": 0.25
     }, 
     "soldermask": {
@@ -481,7 +481,7 @@
       "rotate": 0, 
       "style": "fill", 
       "type": "text", 
-      "value": "Manufacturing:\nRoHS and lead free compliant manufacturing process\nUnit of length: Millimetre (mm)\nNumber of layers: 2 ('top', 'bottom')\nBoard thickness: 1.6 mm\nMaterial: FR4 35/35 um copper\nSilkscreen: top (white), bottom (white)\nSoldermask: top (green), bottom (green)\nSurface finish: ENIG (lead free)"
+      "value": "Manufacturing:\nRoHS and lead free compliant manufacturing process\nUnit of length: Millimetre (mm)\nNumber of layers: 2 ('top', 'bottom')\nBoard thickness: 1.6 mm\nMaterial: FR4 35/35 um copper\nSilkscreen: none,\nSoldermask: none,\nSurface finish: ENIG (lead free)"
     }, 
     "pcbmode": {
       "font-family": "Overlock-Regular-OTF-webfont", 
@@ -505,8 +505,8 @@
     ]
   }, 
   "files": {
-    "routing-data": "mlayer-test_routing.json", 
-    "routing-svg": "mlayer.svg"
+    "routing-data": "emergency_routing.json", 
+    "routing-svg": "emergency.svg"
   }, 
   "gerber": {
     "decimals": 6, 
@@ -540,6 +540,15 @@
       "location": [
         0, 
         0
+      ], 
+      "show": true
+    }, 
+    "LOGO": {
+      "footprint": "boldport-logo-b", 
+      "layer": "bottom", 
+      "location": [
+        0, 
+        -10
       ], 
       "show": true
     }
