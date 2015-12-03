@@ -551,6 +551,15 @@
         -10
       ], 
       "show": true
+    }, 
+    "SDM": {
+      "footprint": "soldermask", 
+      "layer": "top", 
+      "location": [
+        0, 
+        0
+      ], 
+      "show": true
     }
   }, 
   "stackup": {
