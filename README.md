@@ -6,9 +6,9 @@ The tiny engineer superhero emergency kit will save you. Recall the countless ti
 
 ## Documentation
 
-* For more detailed information visit [boldport.com/products/cordwood-puzzle-second-edition/](https://www.boldport.com/products/cordwood-puzzle-second-edition/)
+* For more detailed information visit [the Wiki page](https://bitbucket.org/boldport/pcbmode/wiki/The%20tiny%20engineer%20superhero%20emergency%20kit%20assembly%20guide)
 * To see examples of builds visit the Boldport Club [community pages](http://community.boldport.club/projects/p02-emergency/)
-* This project is produced and built using [PCBmodE](https://github.com/boldport/pcbmode) use release version 4.0
+* This project is produced and built using [PCBmodE](https://pcbmode.com) use release [version 4.0](https://github.com/boldport/pcbmode/releases)
 
 ![The tiny engineer superhero emergency kit PCB layout](/images/emergency_engineer_pcb.png)
 
